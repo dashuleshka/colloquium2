@@ -1,5 +1,5 @@
 # colloquium2
-We are creating a computer toy. The player will control some squad: mage, warrior, archer. The interfaces of the characters will be as follows:
+We are creating a computer game. The player will control some squad: mage, warrior, archer. The interfaces of the characters will be as follows:
 
 public interface wizard {
 public invalidation();
